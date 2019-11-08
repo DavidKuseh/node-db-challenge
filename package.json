@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/DavidKuseh/node-db-challenge#readme",
   "dependencies": {
+    "eslint": "^6.6.0",
     "express": "^4.17.1",
     "knex": "^0.20.1",
     "nodemon": "^1.19.4",
